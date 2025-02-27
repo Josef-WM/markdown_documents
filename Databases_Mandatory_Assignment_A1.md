@@ -62,6 +62,8 @@ For any rating where the reviewer is the same as the director of the movie, retu
 
 ### Q3
 Return all reviewer names and movie names together in a single list, alphabetized. (Sorting by the first name of the reviewer and first word in the title is fine; no need for special processing on last names or removing "The".) \
+![{6881C641-40E6-432E-8B5D-2EE1D9DC3617}](https://github.com/user-attachments/assets/09bf164c-5f51-4288-bb51-49bd4a28bab1)
+![{C8D73019-A06E-44D0-B1BD-0089A559B3BE}](https://github.com/user-attachments/assets/0503d30e-ccae-43f5-9cf3-1e8e8525b429)
 
 ### Q4
 Find the titles of all movies not reviewed by Chris Jackson. \
