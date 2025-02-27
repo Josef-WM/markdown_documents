@@ -30,7 +30,7 @@ For all cases where the same reviewer rated the same movie twice and gave it a h
 ![{4FA287E5-37F8-4879-A97C-BDA9A7276DDB}](https://github.com/user-attachments/assets/24dc7db7-2a98-4255-bc9e-513d5363affd)
 
 ### Q7
-For each movie that has at least one rating, find the highest number of stars that movie received. Return the movie title and number of stars. Sort by movie title.
+For each movie that has at least one rating, find the highest number of stars that movie received. Return the movie title and number of stars.Sort by movie title.
 ![{A5A5FE41-BE96-485A-A0A5-3D013AF8DEEB}](https://github.com/user-attachments/assets/be863be5-e0c6-406d-a803-6b5ba1362f92)
 ![{8A4BA352-26DD-4492-9B81-952047EA323C}](https://github.com/user-attachments/assets/e4d13062-bd14-4d0d-bc48-30dc07a60ddb)
 
