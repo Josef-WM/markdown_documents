@@ -41,6 +41,8 @@ For each movie, return the title and the 'rating spread', that is, the differenc
 
 ### Q9
 Find the difference between the average rating of movies released before 1980 and the average rating of movies released after 1980. (Make sure to calculate the average rating for each movie, then the average of those averages for movies before 1980 and movies after. Don't just calculate the overall average rating before and after 1980.)
+![{686764B1-5355-4331-AE74-DB371F411712}](https://github.com/user-attachments/assets/c8ee065d-d03e-42ef-8b8d-21edc88ccc6e)
+![{584E48E4-93A0-4E02-8526-692980297606}](https://github.com/user-attachments/assets/a4136eed-6922-484a-99d5-d3d548cd87b8)
 
 
 
