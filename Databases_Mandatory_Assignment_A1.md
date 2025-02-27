@@ -96,10 +96,15 @@ Some directors directed more than one movie. For all such directors, return the 
 
 ### Q10
 Find the movie(s) with the highest average rating. Return the movie title(s) and average rating. (Hint: This query is more difficult to write in SQLite than other systems; you might think of it as finding the highest average rating and then choosing the movie(s) with that average rating.) \
+![{6A054E07-332B-4197-BD73-0759773F713B}](https://github.com/user-attachments/assets/8beb5a68-076a-4716-85cc-442dc1f75b19)
+![{9DCA6884-4547-4A10-8107-A13CA09BBC7D}](https://github.com/user-attachments/assets/b196bed5-43b2-4ee1-9380-07e621ee282e)
 
 ### Q11
 Find the movie(s) with the lowest average rating. Return the movie title(s) and average rating. (Hint: This query may be more difficult to write in SQLite than other systems; you might think of it as finding the lowest average rating and then choosing the movie(s) with that average rating.) \
+![{40C15730-2B78-4DB7-A130-594B3265A569}](https://github.com/user-attachments/assets/a1d2a01f-f669-4bf8-b516-2a14c6b632ac)
+![{01864EE3-F772-4EE8-9382-C63A6201C09C}](https://github.com/user-attachments/assets/8f4d9c2c-4ea0-4ccc-a5b2-f2e6f1516110)
 
 ### Q12
 For each director, return the director's name together with the title(s) of the movie(s) they directed that received the highest rating among all of their movies, and the value of that rating. Ignore movies whose director is NULL. \
-### Q25
+![{84A6B1BA-51EC-4D2E-9894-7708D14A1588}](https://github.com/user-attachments/assets/3ac84d5a-060d-45d3-ab77-153698be46bb)
+![{CBA1D3C7-609C-4D62-AAE3-91E1CD6DC7B7}](https://github.com/user-attachments/assets/d114d9b6-007c-472c-9ad4-532ec6e53b69)
