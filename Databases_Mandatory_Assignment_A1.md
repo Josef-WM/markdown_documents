@@ -30,12 +30,12 @@ For all cases where the same reviewer rated the same movie twice and gave it a h
 ![{4FA287E5-37F8-4879-A97C-BDA9A7276DDB}](https://github.com/user-attachments/assets/24dc7db7-2a98-4255-bc9e-513d5363affd)
 
 ### Q7
-For each movie that has at least one rating, find the highest number of stars that movie received. Return the movie title and number of stars.Sort by movie title.
+For each movie that has at least one rating, find the highest number of stars that movie received. Return the movie title and number of stars. Sort by movie title. \
 ![{A5A5FE41-BE96-485A-A0A5-3D013AF8DEEB}](https://github.com/user-attachments/assets/be863be5-e0c6-406d-a803-6b5ba1362f92)
 ![{8A4BA352-26DD-4492-9B81-952047EA323C}](https://github.com/user-attachments/assets/e4d13062-bd14-4d0d-bc48-30dc07a60ddb)
 
 ### Q8
-For each movie, return the title and the 'rating spread', that is, the difference between highest and lowest ratings given to that movie. Sort by rating spread from highest to lowest, then by movie title.
+For each movie, return the title and the 'rating spread', that is, the difference between highest and lowest ratings given to that movie. Sort by rating spread from highest to lowest, then by movie title. \
 ![{558739B6-7EE3-4D21-87D7-A6C3A4D81E12}](https://github.com/user-attachments/assets/8ba1ae82-4bb0-47aa-9b71-db56d4e4ad18)
 ![{F408EE73-ACC3-46BC-8958-F5EDD1D28D85}](https://github.com/user-attachments/assets/9f3c94eb-98f9-40ce-8992-ba0d8bc7a82b)
 
