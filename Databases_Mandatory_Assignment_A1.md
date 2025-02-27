@@ -1,5 +1,6 @@
 ## Databases Mandatory Assignment - A1
 
+### **Movie-Rating Query Exercises**
 ### Q1
 Find the titles of all movies directed by Steven Spielberg.
 ![{F2232B31-8B0B-4013-9AAF-BBE94D18E927}](https://github.com/user-attachments/assets/1f8f18f9-97a4-4f41-8536-2c6f7d81b680)
@@ -47,19 +48,45 @@ Find the difference between the average rating of movies released before 1980 an
 
 
 
+
+### **Movie-Rating Query Exercises Extras**
+### Q1
+Find the names of all reviewers who rated Gone with the Wind. \
+![{AA3F3894-92E5-4296-AC5F-EE2F91282182}](https://github.com/user-attachments/assets/e422eb54-b016-44b3-bef8-536e18f563c6)
+![{8A7E3215-9E4B-44C6-883E-2BA49E35856E}](https://github.com/user-attachments/assets/718e2b98-3142-46c8-9aae-2c067696ff95)
+
+### Q2
+For any rating where the reviewer is the same as the director of the movie, return the reviewer name, movie title, and number of stars. \
+![{FBD5436B-E17E-461E-B4E5-280EA10870B9}](https://github.com/user-attachments/assets/c1804475-dc64-4d2d-bc0d-f2ef6084acd9)
+![{82351243-6783-4180-A2A8-20849459144E}](https://github.com/user-attachments/assets/b12fb8c5-93f1-4192-b4ea-af194dd1a6d5)
+
+### Q3
+Return all reviewer names and movie names together in a single list, alphabetized. (Sorting by the first name of the reviewer and first word in the title is fine; no need for special processing on last names or removing "The".) \
+
+### Q4
+Find the titles of all movies not reviewed by Chris Jackson. \
+
+### Q5
+For all pairs of reviewers such that both reviewers gave a rating to the same movie, return the names of both reviewers. Eliminate duplicates, don't pair reviewers with themselves, and include each pair only once. For each pair, return the names in the pair in alphabetical order. \
+
+### Q6
+For each rating that is the lowest (fewest stars) currently in the database, return the reviewer name, movie title, and number of stars. \
+
+### Q7
+List movie titles and average ratings, from highest-rated to lowest-rated. If two or more movies have the same average rating, list them in alphabetical order. \
+
+### Q8
+Find the names of all reviewers who have contributed three or more ratings. (As an extra challenge, try writing the query without HAVING or without COUNT.) \
+
+### Q9
+Some directors directed more than one movie. For all such directors, return the titles of all movies directed by them, along with the director name. Sort by director name, then movie title. (As an extra challenge, try writing the query both with and without COUNT.) \
+
 ### Q10
+Find the movie(s) with the highest average rating. Return the movie title(s) and average rating. (Hint: This query is more difficult to write in SQLite than other systems; you might think of it as finding the highest average rating and then choosing the movie(s) with that average rating.) \
+
 ### Q11
+Find the movie(s) with the lowest average rating. Return the movie title(s) and average rating. (Hint: This query may be more difficult to write in SQLite than other systems; you might think of it as finding the lowest average rating and then choosing the movie(s) with that average rating.) \
+
 ### Q12
-### Q13
-### Q14
-### Q15
-### Q16
-### Q17
-### Q18
-### Q19
-### Q20
-### Q21
-### Q22
-### Q23
-### Q24
+For each director, return the director's name together with the title(s) of the movie(s) they directed that received the highest rating among all of their movies, and the value of that rating. Ignore movies whose director is NULL. \
 ### Q25
