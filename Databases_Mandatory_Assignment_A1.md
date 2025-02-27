@@ -65,6 +65,8 @@ Return all reviewer names and movie names together in a single list, alphabetize
 
 ### Q4
 Find the titles of all movies not reviewed by Chris Jackson. \
+![{53B65157-A334-4302-81B4-11BCCD5CB2D1}](https://github.com/user-attachments/assets/f8a5b079-584d-4ffc-8897-96a34f5341b8)
+![{F3867530-C930-42A6-85BA-2F5F271738E9}](https://github.com/user-attachments/assets/414406b3-ee94-4d74-8b18-475029d259ed)
 
 ### Q5
 For all pairs of reviewers such that both reviewers gave a rating to the same movie, return the names of both reviewers. Eliminate duplicates, don't pair reviewers with themselves, and include each pair only once. For each pair, return the names in the pair in alphabetical order. \
