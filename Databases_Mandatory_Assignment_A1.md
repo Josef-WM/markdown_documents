@@ -75,9 +75,13 @@ For all pairs of reviewers such that both reviewers gave a rating to the same mo
 
 ### Q6
 For each rating that is the lowest (fewest stars) currently in the database, return the reviewer name, movie title, and number of stars. \
+![{872D34C6-8DAE-4AFD-9902-1B605E07206C}](https://github.com/user-attachments/assets/c999c45f-d652-49ae-8cfd-a7b8e375364a)
+![{68E0AEA9-C800-4EA8-97AD-CE980FDDAA6A}](https://github.com/user-attachments/assets/80c20db6-48e5-4eef-b598-416b0a66109d)
 
 ### Q7
 List movie titles and average ratings, from highest-rated to lowest-rated. If two or more movies have the same average rating, list them in alphabetical order. \
+![{B6013CB5-5E10-48D2-A366-3E172489DAFF}](https://github.com/user-attachments/assets/24f44ca8-ecf7-40f2-8392-4b259dfa41d2)
+![{FF401217-2F5A-4174-9DAA-AFBEED62B440}](https://github.com/user-attachments/assets/b3cde660-7c6c-4103-9556-a500928b6705)
 
 ### Q8
 Find the names of all reviewers who have contributed three or more ratings. (As an extra challenge, try writing the query without HAVING or without COUNT.) \
