@@ -6,8 +6,9 @@ Find the titles of all movies directed by Steven Spielberg.
 ![{1927F23E-A500-4998-B96B-95E25EA85EF8}](https://github.com/user-attachments/assets/b5b27411-c338-4167-a53b-3856886233e1)
 
 ### Q2
-Find all years that have a movie that received a rating of 4 or 5, and sort them in increasing order.
-
+Find all years that have a movie that received a rating of 4 or 5, and sort them in increasing order. \
+![{3C51B64A-871E-4AD5-9942-AAE3C71D3CD2}](https://github.com/user-attachments/assets/15afb1ee-99f0-44ad-af89-7b00c17dbec7)
+![{1E917D81-BB61-4F44-B855-FA6383A43C0C}](https://github.com/user-attachments/assets/d02bb3ac-25ee-4074-bedd-3839f55b3d45)
 
 ### Q3
 Find the titles of all movies that have no ratings.
