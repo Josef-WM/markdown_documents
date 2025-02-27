@@ -85,6 +85,8 @@ List movie titles and average ratings, from highest-rated to lowest-rated. If tw
 
 ### Q8
 Find the names of all reviewers who have contributed three or more ratings. (As an extra challenge, try writing the query without HAVING or without COUNT.) \
+![{1CD3F042-33A1-493F-B856-62192190B1E9}](https://github.com/user-attachments/assets/70ad2c9e-4fd6-4528-9f82-af165b969222)
+![{81C4F3E6-ABA0-4213-A63B-E547E573AE73}](https://github.com/user-attachments/assets/d8a30d5d-2a3a-46bf-a0ed-1859fcdb786b)
 
 ### Q9
 Some directors directed more than one movie. For all such directors, return the titles of all movies directed by them, along with the director name. Sort by director name, then movie title. (As an extra challenge, try writing the query both with and without COUNT.) \
