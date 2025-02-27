@@ -90,6 +90,9 @@ Find the names of all reviewers who have contributed three or more ratings. (As 
 
 ### Q9
 Some directors directed more than one movie. For all such directors, return the titles of all movies directed by them, along with the director name. Sort by director name, then movie title. (As an extra challenge, try writing the query both with and without COUNT.) \
+![{B229C352-CC4B-460B-B7D2-6C701967117D}](https://github.com/user-attachments/assets/bea45d9d-6a45-4aaf-9cab-862f6dc7c166)
+![{86083ED1-F90C-4697-93F2-9A49B7822EC8}](https://github.com/user-attachments/assets/80352439-7dde-4e78-a721-168d31cccd9b)
+
 
 ### Q10
 Find the movie(s) with the highest average rating. Return the movie title(s) and average rating. (Hint: This query is more difficult to write in SQLite than other systems; you might think of it as finding the highest average rating and then choosing the movie(s) with that average rating.) \
