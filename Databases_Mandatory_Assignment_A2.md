@@ -2,50 +2,47 @@
 
 ### **Social-Network Query Exercises**
 ### Q1
-Find the names of all students who are friends with someone named Gabriel.
-
+Find the names of all students who are friends with someone named Gabriel. \
+![{0783603C-4726-41AF-9DD8-A2F824637B7A}](https://github.com/user-attachments/assets/3e8bc346-6ddf-47e0-b666-f6a1358d0e1a)
+![{AE6F3469-E7D1-4CDB-8379-E6CD7F4FA5AF}](https://github.com/user-attachments/assets/fedc9361-e972-4bee-aed3-a74be5c13711)
 
 ### Q2
-Find all years that have a movie that received a rating of 4 or 5, and sort them in increasing order. \
-![{3C51B64A-871E-4AD5-9942-AAE3C71D3CD2}](https://github.com/user-attachments/assets/15afb1ee-99f0-44ad-af89-7b00c17dbec7)
-![{1E917D81-BB61-4F44-B855-FA6383A43C0C}](https://github.com/user-attachments/assets/d02bb3ac-25ee-4074-bedd-3839f55b3d45)
+For every student who likes someone 2 or more grades younger than themselves, return that student's name and grade, and the name and grade of the student they like. \
+![{77160096-1A8D-4E18-80FB-80C46B273E2D}](https://github.com/user-attachments/assets/91745829-2d35-4fbd-9f42-ebc41e8dcc00)
+![{9EC21346-86BA-40CB-A20B-A404B30F9660}](https://github.com/user-attachments/assets/dcf9d2bf-80e0-450e-97ed-5d740752639d)
 
 ### Q3
-Find the titles of all movies that have no ratings.
-![{1A7F2F42-5C6E-4FCB-93E3-EEF2D7A24C92}](https://github.com/user-attachments/assets/2cc370b6-4414-49bd-af01-f263732c317c)
-![{174F6A54-11D6-495A-A179-1EA25904DC5A}](https://github.com/user-attachments/assets/0c69585f-6f9c-483e-b729-3b92f18c412a)
+For every pair of students who both like each other, return the name and grade of both students. Include each pair only once, with the two names in alphabetical order. \
+![{43E96B34-B7F7-468C-B58B-217B33981524}](https://github.com/user-attachments/assets/76626cc3-603e-47ae-92ec-c8cd340adb14)
+![{9539403F-77F0-4141-B799-C1E2B52AD6BD}](https://github.com/user-attachments/assets/68cf9673-9f36-4926-9c5f-1b9ce529f4ed)
 
 ### Q4
-Some reviewers didn't provide a date with their rating. Find the names of all reviewers who have ratings with a NULL value for the date.
-![{B54C4FF7-49EE-4CAD-907D-C02D14D60C1C}](https://github.com/user-attachments/assets/970cdbb7-4e10-4ebb-8d18-fd22cb4bdeba)
-![{75C9E522-C8D8-4C79-9F16-41DDEBFB2CE7}](https://github.com/user-attachments/assets/a86e9400-5505-47c5-afaf-f35099fd8518)
+Find all students who do not appear in the Likes table (as a student who likes or is liked) and return their names and grades. Sort by grade, then by name within each grade. \
+![{27690CED-4914-4780-B68E-527DCDDED1BF}](https://github.com/user-attachments/assets/2acfaab2-f090-4a62-b313-950028fb583f)
+![{DAE9D26E-CCE2-4698-9693-720D6BC64A5C}](https://github.com/user-attachments/assets/e395ea72-32fd-4afb-94ce-83091124c3cf)
 
 ### Q5
-Write a query to return the ratings data in a more readable format: reviewer name, movie title, stars, and ratingDate. Also, sort the data, first by reviewer name, then by movie title, and lastly by number of stars.
-![{820C6B42-387D-47FB-A908-2D4E34E5B410}](https://github.com/user-attachments/assets/f3b499e5-7632-43c1-9f40-b087850c21cc)
-![{1AE6EC7B-FFCA-440F-95C6-74CD9640ADD4}](https://github.com/user-attachments/assets/c86a0928-9617-48df-bbde-0094ef61013a)
+For every situation where student A likes student B, but we have no information about whom B likes (that is, B does not appear as an ID1 in the Likes table), return A and B's names and grades. \
+![{4184510C-C2E3-42E1-852C-4C8460032AAB}](https://github.com/user-attachments/assets/517e7be5-103f-466a-98ca-5fda1d4f6bb6)
+![{56890297-98FA-4260-ACDF-9BE0A6B34F81}](https://github.com/user-attachments/assets/6a8d713c-e29b-4768-8e53-46d146af3785)
 
 ### Q6
-For all cases where the same reviewer rated the same movie twice and gave it a higher rating the second time, return the reviewer's name and the title of the movie.
-![{B2B484B9-CB78-4D5F-B042-DD21A612F96F}](https://github.com/user-attachments/assets/79f564f2-154b-4b12-aa36-0cadc830b2c3)
-![{4FA287E5-37F8-4879-A97C-BDA9A7276DDB}](https://github.com/user-attachments/assets/24dc7db7-2a98-4255-bc9e-513d5363affd)
+Find names and grades of students who only have friends in the same grade. Return the result sorted by grade, then by name within each grade. \
+![{B5674170-BEE4-403A-84F2-95BFDEBA41C9}](https://github.com/user-attachments/assets/e447cff9-c22e-4b10-973c-7372a7314f6c)
+![{D448901F-1724-4B15-8650-2C5C3571A41D}](https://github.com/user-attachments/assets/e9d08e87-bbcf-403d-b1b1-20e034380718)
 
 ### Q7
-For each movie that has at least one rating, find the highest number of stars that movie received. Return the movie title and number of stars. Sort by movie title. \
-![{A5A5FE41-BE96-485A-A0A5-3D013AF8DEEB}](https://github.com/user-attachments/assets/be863be5-e0c6-406d-a803-6b5ba1362f92)
-![{8A4BA352-26DD-4492-9B81-952047EA323C}](https://github.com/user-attachments/assets/e4d13062-bd14-4d0d-bc48-30dc07a60ddb)
+For each student A who likes a student B where the two are not friends, find if they have a friend C in common (who can introduce them!). For all such trios, return the name and grade of A, B, and C. \
 
 ### Q8
-For each movie, return the title and the 'rating spread', that is, the difference between highest and lowest ratings given to that movie. Sort by rating spread from highest to lowest, then by movie title. \
-![{558739B6-7EE3-4D21-87D7-A6C3A4D81E12}](https://github.com/user-attachments/assets/8ba1ae82-4bb0-47aa-9b71-db56d4e4ad18)
-![{F408EE73-ACC3-46BC-8958-F5EDD1D28D85}](https://github.com/user-attachments/assets/9f3c94eb-98f9-40ce-8992-ba0d8bc7a82b)
+Find the difference between the number of students in the school and the number of different first names.
+![{D19F1211-874E-4972-AAB3-BCB1C054A763}](https://github.com/user-attachments/assets/c7979c55-fa72-483f-b397-e7f1bc9c9b33)
+![{5647B421-37E7-424B-8199-B8D3F82BED69}](https://github.com/user-attachments/assets/a8d77572-4cee-47a9-8311-a12c6316a473)
 
 ### Q9
-Find the difference between the average rating of movies released before 1980 and the average rating of movies released after 1980. (Make sure to calculate the average rating for each movie, then the average of those averages for movies before 1980 and movies after. Don't just calculate the overall average rating before and after 1980.)
-![{686764B1-5355-4331-AE74-DB371F411712}](https://github.com/user-attachments/assets/c8ee065d-d03e-42ef-8b8d-21edc88ccc6e)
-![{584E48E4-93A0-4E02-8526-692980297606}](https://github.com/user-attachments/assets/a4136eed-6922-484a-99d5-d3d548cd87b8)
-
-
+Find the name and grade of all students who are liked by more than one other student.
+![{699A365D-7341-42A3-A728-92A295A1C1EC}](https://github.com/user-attachments/assets/1e3fa83a-fa44-4fb8-bcf8-24a79201d3d5)
+![{BD471C34-B614-4747-AECE-16B085476A71}](https://github.com/user-attachments/assets/669674a7-ed7a-472c-b011-e50aa626fafc)
 
 
 ### **Movie-Rating Query Exercises Extras**
