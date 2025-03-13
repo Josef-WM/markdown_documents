@@ -48,17 +48,26 @@ Find the name and grade of all students who are liked by more than one other stu
 ### **Social-Network Query Exercises Extras**
 ### Q1
 For every situation where student A likes student B, but student B likes a different student C, return the names and grades of A, B, and C. \
+![{3ACCDAEF-26BE-40D7-A26F-1DFCC2994E71}](https://github.com/user-attachments/assets/42e8189c-db7c-4ca5-ad09-d79eb4ddda85)
+![{4C08484C-6958-402E-B610-B827760FC892}](https://github.com/user-attachments/assets/04f99705-bddc-44d6-88a1-955075383d63)
 
 ### Q2
 Find those students for whom all of their friends are in different grades from themselves. Return the students' names and grades. \
+![{8B63E70E-0177-4DEB-AF8E-759B96606BF3}](https://github.com/user-attachments/assets/53443620-415e-4c32-93a7-1c2ceb41bb9a)
+![{81294962-396D-4349-B7E7-5E6C019404F0}](https://github.com/user-attachments/assets/495fa803-15cd-4a4f-a294-26988a4d3d70)
 
 ### Q3
 What is the average number of friends per student? (Your result should be just one number.) \
-
+![{E0DA1BD0-B9BC-4CA4-805A-06638C59C4BB}](https://github.com/user-attachments/assets/3eb3db26-6f44-4cc2-805a-61373f0ee263)
+![{D28EC3EE-A6B0-47E5-8754-D886FC397133}](https://github.com/user-attachments/assets/deb50461-220d-4471-b952-e36042f6e6ff)
 
 ### Q4
 Find the number of students who are either friends with Cassandra or are friends of friends of Cassandra. Do not count Cassandra, even though technically she is a friend of a friend. \
+![{FF060C69-6BEE-441E-9AF7-D0A6EB16E7D8}](https://github.com/user-attachments/assets/b2d5f5bc-793f-464a-a3b3-b89d6b9020f0)
+![{700ACAB3-9FB5-4FE2-99E6-D9A4787145C3}](https://github.com/user-attachments/assets/08f3fb71-7aea-44d5-92dd-3c6060160da8)
 
 
 ### Q5
 Find the name and grade of the student(s) with the greatest number of friends. \
+![{8601F3AD-F2D9-469D-9DEF-03E8B3396376}](https://github.com/user-attachments/assets/129270ce-670d-4bd6-b9aa-966520420bc4)
+![{87FC06E2-8F69-4448-A427-68D5AD894E63}](https://github.com/user-attachments/assets/3f720f1a-1d32-4213-be84-d26c8a1e6005)
